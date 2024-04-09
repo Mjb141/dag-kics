@@ -12,7 +12,7 @@ provider "aws" {
 
   default_tags {
     tags = {
-      Name = "Gitlab-Runner"
+      Name = "Test KICS"
     }
   }
 }
