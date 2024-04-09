@@ -1,1 +1,1 @@
-from .main import Kics
+from .main import DagKics
