@@ -1,0 +1,6 @@
+{
+  "name": "dag-kics",
+  "sdk": "python",
+  "source": "dagger",
+  "engineVersion": "v0.11.0"
+}
